@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+ body {
+    font-family: system-ui;
+    background: #f06d06;
+    color: white;
+    text-align: center;
+    height: 100vh;
+}
+  
+container {
+    display: flex;
+    flex-direction: column;
+    gap: 1vh;
+    align-items: center;
+    justify-content: center;
+    padding: 5vh;
+}
+  
+h1 {
+    font-size: 6vw;
+}
