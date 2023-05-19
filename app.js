@@ -3,7 +3,7 @@ const button = document.querySelector('button');
 const alertDisplay = document.getElementById('alert');
 const resultDisplay = document.getElementById('result')
 
-const nameList = [];
+let nameList = [];
 
 function listNamesToArray() {
   const textAreaValues = textArea.value.trim();
