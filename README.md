@@ -6,3 +6,5 @@
     * Clique no botão e o sorteio será realizado
     * Atenção: a aplicação não guarda os dados de cada sorteio.
     * A cada execução do botão para sortear, a aplicação irá criar uma nova lista vazia para incluir os nomes informados no campo de texto.
+
+* Você pode testar o aplicativo <a href="https://marriett.github.io/sorteador/">neste link</a>.
